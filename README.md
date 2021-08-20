@@ -26,7 +26,7 @@ Praticar conhecimentos sobre HTML5, CSS3 e Bootstrap
 
 ## :pager: Tela principal da Site Clone Spotify
 
- <img src="https://github.com/cleuber-andrade/clone_mulan/blob/main/assets/img/mulan.jpg" alt="Tela Principal">
+ <img src="https://github.com/cleuber-andrade/clone_Spotify/blob/main/imagens/clone.jpg" alt="Tela Principal">
 
 ## :globe_with_meridians: Link para acessar site no GitHubPages
 
